@@ -1,0 +1,23 @@
+{
+  "name": "six-game-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasaafanasienka/six-game-server.git"
+  },
+  "author": "Alaksandr Afanasienka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasaafanasienka/six-game-server/issues"
+  },
+  "homepage": "https://github.com/sasaafanasienka/six-game-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
